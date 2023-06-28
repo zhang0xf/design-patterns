@@ -1,0 +1,6 @@
+#.o
+boolean_exp.o
+boolean_exp_main.o
+
+#bin
+main

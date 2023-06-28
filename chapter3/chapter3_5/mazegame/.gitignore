@@ -1,0 +1,8 @@
+# .o
+map_site.o
+maze_factory.o
+maze_game.o
+maze_game_main.o
+
+# bin
+main

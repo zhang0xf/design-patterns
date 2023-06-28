@@ -1,0 +1,10 @@
+# .o
+compiler.o
+compiler_main.o
+program_node_builder.o
+code_generate.o
+parser.o
+scanner.o
+
+# bin
+main

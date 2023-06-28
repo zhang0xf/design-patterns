@@ -1,0 +1,6 @@
+# .o
+flyweight_main.o
+glyph.o
+
+#bin
+main

@@ -1,0 +1,8 @@
+# .o
+component_main.o
+component.o
+window.o
+text_view.o
+
+# bin
+main

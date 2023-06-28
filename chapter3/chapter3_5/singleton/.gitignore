@@ -1,0 +1,6 @@
+# .o 
+singleton_main.o
+singleton.o
+
+# bin
+main

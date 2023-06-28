@@ -1,0 +1,9 @@
+#.o
+image_proxy_main.o
+image_proxy.o
+image_ptr_demo.o
+image_ptr.o
+point.o
+
+# bin
+main

@@ -1,0 +1,6 @@
+#.o
+help_handler_main.o
+help_handler.o
+
+# bin
+main

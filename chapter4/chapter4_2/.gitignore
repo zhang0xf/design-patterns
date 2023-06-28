@@ -1,0 +1,11 @@
+# bin
+main
+
+# .o
+window.o
+windowimp.o
+pm_window.o
+x_window.o
+view.o
+point.o
+window_main.o

@@ -1,0 +1,12 @@
+# .o
+text_shape.o
+manipulator.o
+crood.o
+point.o
+text_view.o
+shape.o
+text_shape_main.o
+text_shape_obj.o
+
+# bin
+main

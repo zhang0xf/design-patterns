@@ -1,0 +1,6 @@
+# .o
+composite_main.o
+equipment.o
+
+# bin
+main

@@ -1,0 +1,8 @@
+#.o
+application.o
+command.o
+document.o
+command_main.o
+
+#bin
+main
